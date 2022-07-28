@@ -78,6 +78,9 @@ public class StepDefinition extends Utils {
 		System.out.println("This method is created for the Git tutorial");
 		System.out.println("Just Ignore this method");
 		System.out.println("Thank you");
+		System.out.println("This is the new edit");
+		System.out.println("Thank you");
+		
 	}
 
 

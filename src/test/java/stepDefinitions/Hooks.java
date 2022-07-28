@@ -20,5 +20,9 @@ public class Hooks {
 
 		}
 	}
+	public void test() {
+		System.out.println("This method is created for the Git tutorial");
+		System.out.println("Just Ignore this method");
+	}
 
 }
