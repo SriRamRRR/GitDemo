@@ -73,6 +73,12 @@ public class StepDefinition extends Utils {
 	    // Write code here that turns the phrase above into concrete actions
 		res=given().spec(requestSpecification()).body(data.deletePlacePayload(place_id));
 	}
+	
+	public void testMethod() {
+		System.out.println("This method is created for the Git tutorial");
+		System.out.println("Just Ignore this method");
+		System.out.println("Thank you");
+	}
 
 
 }
