@@ -22,5 +22,25 @@ public class Test {
 		System.out.println("Thank you");
 
 	}
+public static void main2(String[] args) {
+		
+		System.out.println("Branch1");
+		System.out.println("Branch2");
+		
+		System.out.println("Thank you for Branch 2");
+		System.out.println("This is the new edit for Branch");
+		System.out.println("Thank you");
+
+	}
+public static void main3(String[] args) {
+	
+	System.out.println("Branch1");
+	System.out.println("Branch2");
+	
+	System.out.println("Thank you for Branch 2");
+	System.out.println("This is the new edit for Branch");
+	System.out.println("Thank you");
+
+}
 
 }
